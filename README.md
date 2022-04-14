@@ -6,7 +6,7 @@
 - 💹 Having worked on data analytics projects, coupled with education and training, I have knowledge in software and tools for data projects, visualization, and dashboard creation such as Python, SQL, MS Office, Tableau, Data Studio, and Git.
 - 📊 Eager to help businesses make smarter decisions and grow their business by turning complex datasets into valuable insights.
 
-![](https://img.shields.io/badge/Data_Analysis-Data_Science-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Data_Analysis-Data_Visualization-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Research_Abilities-Business_Insights-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Python-SQL-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/MS_Office-Tableau-informational?style=flat&color=2bbc8a)
