@@ -1,4 +1,4 @@
-# Aditya-Pran-Borah
+# Aditya Pran Borah
 
 - 👋 Hi, I’m Aditya Pran Borah.
 - ✅ I’m a self-motivated, detail-oriented, team player, and ambitious young man fascinated by numbers, enthusiastic about everything data, and passionate to learn new things.
